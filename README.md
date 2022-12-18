@@ -1,4 +1,4 @@
-![alt text](https://user-images.githubusercontent.com/40064496/120735130-6c9e2300-c4c0-11eb-8346-94429163466a.gif)
+<img src="https://user-images.githubusercontent.com/40064496/120735130-6c9e2300-c4c0-11eb-8346-94429163466a.gif" width="1000" height="450">
 
 - 👋 Hi, I’m @souhaieb-mediouni
 - 👀 I’m interested in continious self development                             
